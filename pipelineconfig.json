@@ -1,0 +1,24 @@
+{
+  "env_choice": "development",
+  "development": {
+    "hostname": "msildemo.apps.cp4a-cluster-168052-b85599c7f1166f5a7cd447b9d067780a-0000.che01.containers.appdomain.cloud",
+    "port": "80",
+    "servercred": "admin:admin"
+  },
+  "production": {
+    "hostname": "184.173.5.43",
+    "port": "30989",
+    "servercred": "admin:admin"
+  },
+  "default": {
+    "hostname": "mobilefoundationdemo.apps.ocp41-sv21.os.fyre.ibm.com",
+    "port": "9080",
+    "servercred": "admin:admin"
+  },
+  "userName":"sriniketana",
+  "repoName": "MyCar",
+  "ios": {
+     "host": "9.109.199.146",
+     "botId": "fedf"
+  }
+}
